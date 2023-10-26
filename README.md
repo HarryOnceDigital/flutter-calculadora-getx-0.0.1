@@ -1,16 +1,35 @@
-# calculadora
+# Calculadora Básica Flutter con GetX
 
-A new Flutter project.
+Esta es una aplicación de calculadora básica desarrollada en Flutter utilizando el paquete GetX para la gestión del estado y la navegación. La aplicación proporciona una interfaz de usuario intuitiva y fácil de usar que permite a los usuarios realizar operaciones matemáticas básicas, como suma, resta, multiplicación y división. Además, incluye funcionalidades adicionales, como borrar el último carácter y borrar todo el contenido del campo de entrada.
 
-## Getting Started
+## Instrucciones de Uso
 
-This project is a starting point for a Flutter application.
+1. Clona o descarga el repositorio en tu dispositivo.
+2. Abre el proyecto en un entorno de desarrollo Flutter (como Visual Studio Code o Android Studio).
+3. Ejecuta la aplicación en un emulador o dispositivo físico.
+4. Utiliza la calculadora para realizar operaciones matemáticas.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos Técnicos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter
+- GetX Package
+- 
+## Contribución
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo a través de solicitudes de extracción (Pull Requests).
+
+## Licencia
+
+Este proyecto se distribuye bajo la [Licencia MIT].
+
+## Agradecimientos
+
+Agradecemos a la comunidad de desarrolladores de Flutter y GetX por proporcionar herramientas poderosas y flexibles para crear aplicaciones móviles.
+
+## Autor
+
+Harrison Olvera Calleja
+
+## Fecha de Creación
+
+25 - Octubre - 2023
