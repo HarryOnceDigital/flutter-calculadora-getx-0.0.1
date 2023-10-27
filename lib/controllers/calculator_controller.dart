@@ -1,8 +1,5 @@
 import 'package:get/get.dart';
 
-// ignore: unused_import
-import 'package:calculadora/widgets/math_results.dart';
-
 class CalculatorController extends GetxController {
   var firstNumber = '10'.obs;
   var secondNumber = '20'.obs;
